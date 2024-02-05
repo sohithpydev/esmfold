@@ -1,4 +1,5 @@
 streamlit
+stmol
 py3Dmol
 pandas
 biotite
